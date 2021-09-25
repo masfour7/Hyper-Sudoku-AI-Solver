@@ -1,7 +1,7 @@
 # Hyper-Sudoku-AI-Solver
 
+- The purpose of this project is to Build an AI system that solves the Hyper Sudoku in a few seconds.
 - Programming language: Python, IDE: PyCharm
-- Built an AI system that solves the Hyper Sudoku in a few seconds.
 - Applied the Forward Checking algorithm to reduce the domain of neighbors to cells which already had numbers
 in them
 
